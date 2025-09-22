@@ -1,2 +1,3 @@
 "Bob - Backend Developer" 
 "Bob - added contact info" 
+"Bob - second last note" 
